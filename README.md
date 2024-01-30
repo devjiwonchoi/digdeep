@@ -8,8 +8,17 @@
 
 ### HTML
 
+- [[Semantic HTML]]
+- [[HTML Forms]]
+- [[Links and Navigations]]
+- [[Images]]
+- [[HyperMedia]]
+- [[Tables]]
+- [[Metadata]]
+- [[Validation]]
 ### CSS
 
+- 
 ### Responsive
 
 ### SEO
